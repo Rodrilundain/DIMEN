@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<link rel="stylesheet" href="estilos1.css">
